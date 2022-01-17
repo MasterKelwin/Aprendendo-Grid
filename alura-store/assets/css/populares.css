@@ -1,0 +1,38 @@
+.populares {
+    padding: 3rem 0;
+}
+
+.populares__conteudo {
+    display: flex;
+    flex-wrap: wrap;
+    grid-area: conteudo;
+    padding: 1rem 0;
+}
+
+.populares__card {
+    background-color: #fff;
+    display: grid;
+    grid-template-areas: 
+        "card-imagem"
+        "card-corpo";
+    grid-template-columns: 100%;
+    width: 20%;
+}
+
+.populares__card___imagem {
+    grid-area: card-imagem;
+    height: 100%;
+    width: 100%;
+}
+
+.populares__card___corpo {
+    display: grid;
+    grid-area: card-corpo;
+    grid-row-gap: 0.5rem;
+    grid-template-areas: 
+        "card-cabecalho"
+        "card-conteudo";
+    padding: 0.5rem;
+}
+
+.
