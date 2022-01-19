@@ -11,7 +11,7 @@
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 33.33% 33.33% 33.33%;
     height: calc((100vh - 5vh) - 0.2rem);
-    width: calc(100vw - 1.7rem);
+    width: calc(100vw - 5.7rem);
 }
 
 .destaques__principal {
