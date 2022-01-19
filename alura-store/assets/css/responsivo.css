@@ -80,7 +80,7 @@
 @media screen and (min-width: 1200px) {
     .populares__conteudo {
         flex-flow: row wrap;
-        justify-content: space-around;
+        justify-content: space-between;
     }
     
     .populares__card {
