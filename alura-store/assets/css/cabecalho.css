@@ -1,0 +1,20 @@
+.menu {
+    display: flex;
+}
+
+.menu__lista {
+    padding: 1rem 1rem 1rem 3rem;
+}
+
+.menu__link {
+    padding: .5rem;
+}
+
+.menu__link {
+    color: #000;
+}
+
+.menu__link:hover {
+    border-bottom: 2px solid #5090E7;
+}
+

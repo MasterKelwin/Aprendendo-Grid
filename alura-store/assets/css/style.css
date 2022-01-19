@@ -12,7 +12,6 @@
 }
 
 .cabecalho {
-    background-color: rgb(26, 143, 10);
     grid-area: cabecalho;
 }
  
@@ -22,6 +21,5 @@
 }
 
 .rodape {
-    background-color: blue;
     grid-area: rodape;
 }
